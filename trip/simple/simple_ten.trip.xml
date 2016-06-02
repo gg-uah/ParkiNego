@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<trips>
+	<trip id="1" depart="0.0" from="51560710#0" to="51560710#8"/>
+	<trip id="2" depart="10.0" from="51560710#0" to="51560710#8"/>
+	<trip id="3" depart="20.0" from="51560710#0" to="51560710#8"/>
+	<trip id="4" depart="30.0" from="51560710#0" to="51560710#8"/>
+	<trip id="5" depart="40.0" from="51560710#0" to="51560710#8"/>
+	<trip id="6" depart="50.0" from="51560710#0" to="51560710#8"/>
+	<trip id="7" depart="60.0" from="51560710#0" to="51560710#8"/>
+	<trip id="8" depart="70.0" from="51560710#0" to="51560710#8"/>
+	<trip id="9" depart="80.0" from="51560710#0" to="51560710#8"/>
+	<trip id="10" depart="90.0" from="51560710#0" to="51560710#8"/>
+</trips>

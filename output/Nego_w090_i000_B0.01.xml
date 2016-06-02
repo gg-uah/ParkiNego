@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Mon Oct 27 16:09:27 2014 by SUMO sumo Version 0.21.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo-sim.org/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="network/grid3x3/grid3x3.net.xml"/>
+        <route-files value="/Users/sho/Documents/program/parking_negotiation/parking_negotiation/tmp/grid3x3_long.rou.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="output/Nego_w090_i000_B0.01.xml"/>
+    </output>
+
+    <time>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+        <no-warnings value="true"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="8813"/>
+    </traci_server>
+
+</configuration>

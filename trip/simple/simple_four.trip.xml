@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<trips>
+	<trip id="1" depart="0.0" from="51560710#0" to="51560710#8"/>
+	<trip id="2" depart="5.0" from="51560710#0" to="51560710#8"/>
+	<trip id="3" depart="10.0" from="51560710#0" to="51560710#8"/>
+	<trip id="4" depart="15.0" from="51560710#0" to="51560710#8"/>
+</trips>

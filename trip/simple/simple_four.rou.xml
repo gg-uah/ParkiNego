@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Wed Oct 29 16:36:18 2014 by SUMO duarouter Version 0.21.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo-sim.org/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="network/simple/simple.net.xml"/>
+        <trip-files value="trip/simple/simple_four.trip.xml"/>
+    </input>
+
+    <output>
+        <output-file value="trip/simple/simple_four.rou.xml"/>
+    </output>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo-sim.org/xsd/routes_file.xsd">
+    <vehicle id="1" depart="0.00">
+        <route edges="51560710#0 51560710#1 51560710#2 51560710#3 51560710#4 51560710#5 51560710#6 51560710#7 51560710#8"/>
+    </vehicle>
+    <vehicle id="2" depart="5.00">
+        <route edges="51560710#0 51560710#1 51560710#2 51560710#3 51560710#4 51560710#5 51560710#6 51560710#7 51560710#8"/>
+    </vehicle>
+    <vehicle id="3" depart="10.00">
+        <route edges="51560710#0 51560710#1 51560710#2 51560710#3 51560710#4 51560710#5 51560710#6 51560710#7 51560710#8"/>
+    </vehicle>
+    <vehicle id="4" depart="15.00">
+        <route edges="51560710#0 51560710#1 51560710#2 51560710#3 51560710#4 51560710#5 51560710#6 51560710#7 51560710#8"/>
+    </vehicle>
+</routes>

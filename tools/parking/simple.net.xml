@@ -1,0 +1,1157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm generator="JOSM" upload="true" version="0.6">
+  <bounds maxlat="35.1559992" maxlon="136.927194" minlat="35.1552273" minlon="136.9247049" origin="CGImap 0.3.3 (31121 thorn-02.openstreetmap.org)" />
+  <node action="modify" id="-10" lat="35.1553330118" lon="136.92633709672" visible="true" />
+  <node id="2" lat="35.1552500018" lon="136.924864248" user="sho" version="1" visible="true"><tag k="amenity" v="parking" /><tag k="highway" v="traffic_signals" /></node><node action="modify" id="-8" lat="35.1557248792" lon="136.93031857231" visible="true">
+    <tag k="amenity" v="parking" />
+  </node>
+  <node id="3" lat="35.155377504" lon="136.925404754" user="sho" version="1" visible="true"><tag k="amenity" v="parking" /><tag k="highway" v="traffic_signals" /></node><node id="4" lat="35.1557514068" lon="136.926950535" user="sho" version="1" visible="true"><tag k="amenity" v="parking" /><tag k="highway" v="traffic_signals" /></node><node changeset="22083038" id="599495462" lat="35.1559855" lon="136.9279326" timestamp="2014-05-02T11:59:45Z" uid="146930" user="Tom_G3X" version="3" visible="true">
+    <tag k="highway" v="traffic_signals" />
+  </node>
+  <node changeset="7332179" id="605305112" lat="35.1542341" lon="136.9384332" timestamp="2011-02-19T14:09:53Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="24880116" id="659371307" lat="35.1548541" lon="136.9232329" timestamp="2014-08-20T09:58:25Z" uid="146930" user="Tom_G3X" version="5" visible="true">
+    <tag k="highway" v="traffic_signals" />
+  </node>
+  <node changeset="24852393" id="659371308" lat="35.1552559" lon="136.9232399" timestamp="2014-08-19T08:23:23Z" uid="146930" user="Tom_G3X" version="5" visible="true" />
+  <node changeset="22083038" id="659371309" lat="35.1558289" lon="136.9272647" timestamp="2014-05-02T11:59:45Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="24852393" id="659371310" lat="35.1557364" lon="136.9266969" timestamp="2014-08-19T08:23:23Z" uid="146930" user="Tom_G3X" version="4" visible="true" />
+  <node id="1" lat="35.1556101169" lon="136.930298353" user="sho" version="1" visible="true"><tag k="amenity" v="parking" /><tag k="highway" v="traffic_signals" /></node><node changeset="14241711" id="659371311" lat="35.1554756" lon="136.9310618" timestamp="2012-12-11T19:09:29Z" uid="651065" user="futurumspes" version="4" visible="true">
+    <tag k="highway" v="traffic_signals" />
+  </node>
+  <node changeset="7332179" id="659371312" lat="35.154901" lon="136.9344884" timestamp="2011-02-19T14:09:59Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="17015378" id="659371320" lat="35.1564697" lon="136.923162" timestamp="2013-07-19T18:45:04Z" uid="146930" user="Tom_G3X" version="4" visible="true" />
+  <node changeset="24852393" id="659371337" lat="35.1588283" lon="136.9256399" timestamp="2014-08-19T08:23:23Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="24852393" id="659371338" lat="35.1589198" lon="136.9265791" timestamp="2014-08-19T08:23:23Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="659371344" lat="35.1586502" lon="136.9268675" timestamp="2014-05-02T11:59:45Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="659371345" lat="35.1582878" lon="136.9269892" timestamp="2014-05-02T11:59:45Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="24852393" id="659371349" lat="35.159495" lon="136.923564" timestamp="2014-08-19T08:23:23Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="24852393" id="659371355" lat="35.1592518" lon="136.9257074" timestamp="2014-08-19T08:23:23Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="4106779" id="664543371" lat="35.1533991" lon="136.9249347" timestamp="2010-03-12T14:31:15Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="24880116" id="664543392" lat="35.1546455" lon="136.9252618" timestamp="2014-08-20T09:58:25Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="24880116" id="664543393" lat="35.1544049" lon="136.9252287" timestamp="2014-08-20T09:58:25Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="24880116" id="664543394" lat="35.1548561" lon="136.9252286" timestamp="2014-08-20T09:58:25Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="24880116" id="664543395" lat="35.1552961" lon="136.9250542" timestamp="2014-08-20T09:58:25Z" uid="146930" user="Tom_G3X" version="4" visible="true" />
+  <node changeset="24880116" id="664543406" lat="35.1548855" lon="136.926187" timestamp="2014-08-20T09:58:25Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="4106683" id="664543415" lat="35.1554962" lon="136.9259159" timestamp="2010-03-12T14:19:51Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24880116" id="664543419" lat="35.1550571" lon="136.9260692" timestamp="2014-08-20T09:58:25Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="14241510" id="664543468" lat="35.1556411" lon="136.9301225" timestamp="2012-12-11T18:50:47Z" uid="651065" user="futurumspes" version="3" visible="true" />
+  <node changeset="14241510" id="664543471" lat="35.1558851" lon="136.9286522" timestamp="2012-12-11T18:50:47Z" uid="651065" user="futurumspes" version="2" visible="true" />
+  <node changeset="14241510" id="664543473" lat="35.1557752" lon="136.929342" timestamp="2012-12-11T18:50:47Z" uid="651065" user="futurumspes" version="2" visible="true" />
+  <node changeset="7332179" id="664543490" lat="35.1553206" lon="136.9319405" timestamp="2011-02-19T14:09:56Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="14241510" id="664543494" lat="35.1551443" lon="136.9330005" timestamp="2012-12-11T18:50:46Z" uid="651065" user="futurumspes" version="3" visible="true" />
+  <node changeset="6695994" id="1045031485" lat="35.1545782" lon="136.9363887" timestamp="2010-12-18T13:56:15Z" uid="173676" user="Wingspan" version="1" visible="true" />
+  <node changeset="7332179" id="1161388471" lat="35.154877" lon="136.9346238" timestamp="2011-02-19T14:09:06Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="14296876" id="1161388502" lat="35.1544065" lon="136.9373584" timestamp="2012-12-16T18:09:43Z" uid="651065" user="futurumspes" version="2" visible="true" />
+  <node changeset="22083038" id="1583573834" lat="35.1556147" lon="136.9259113" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="1583573838" lat="35.1557042" lon="136.9262911" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1583573839" lat="35.1557285" lon="136.9248599" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1583573841" lat="35.1557405" lon="136.9251388" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="1583573842" lat="35.1557794" lon="136.9258533" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="1583573844" lat="35.1558098" lon="136.9264765" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="1583573847" lat="35.1558655" lon="136.9266143" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="1583573851" lat="35.1558928" lon="136.9267558" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1583573852" lat="35.1558693" lon="136.9248358" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="1583573853" lat="35.1558688" lon="136.926233" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1583573855" lat="35.1558991" lon="136.9251116" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="1583573859" lat="35.155959" lon="136.9270206" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="1583573860" lat="35.1559492" lon="136.9265847" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1583573861" lat="35.1559656" lon="136.9247933" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="4" visible="true" />
+  <node changeset="22083038" id="1583573863" lat="35.1559954" lon="136.9267174" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1583573864" lat="35.1559578" lon="136.9256346" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="4" visible="true" />
+  <node changeset="22083038" id="1583573865" lat="35.1560272" lon="136.9268447" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1583573866" lat="35.1559811" lon="136.9258397" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="4" visible="true" />
+  <node changeset="22083038" id="1583573867" lat="35.1560446" lon="136.9269223" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="1583573868" lat="35.1560562" lon="136.9268339" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="1583573869" lat="35.1560598" lon="136.9269829" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1583573870" lat="35.1560383" lon="136.9254917" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="4" visible="true" />
+  <node changeset="22083038" id="1583573871" lat="35.1560754" lon="136.9269108" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1583573877" lat="35.156111" lon="136.9247889" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="4" visible="true" />
+  <node changeset="15348393" id="1583573881" lat="35.1561899" lon="136.9254653" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="4" visible="true" />
+  <node changeset="15348393" id="1583573882" lat="35.1562006" lon="136.9255933" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="4" visible="true" />
+  <node changeset="15348393" id="1583573885" lat="35.1562239" lon="136.9257984" timestamp="2013-03-13T08:08:00Z" uid="146930" user="Tom_G3X" version="4" visible="true" />
+  <node changeset="24852393" id="1583573887" lat="35.1562385" lon="136.9271774" timestamp="2014-08-19T08:23:21Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="24852393" id="1583573906" lat="35.1569492" lon="136.9271898" timestamp="2014-08-19T08:23:21Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="24900848" id="1583573966" lat="35.1572504" lon="136.9271279" timestamp="2014-08-21T05:22:18Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="10517863" id="1608088498" lat="35.1541239" lon="136.9393134" timestamp="2012-01-28T01:32:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10517863" id="1608088508" lat="35.1547261" lon="136.935515" timestamp="2012-01-28T01:32:21Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1621753623" lat="35.1552033" lon="136.9233057" timestamp="2012-02-13T07:24:28Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="10613172" id="1621753651" lat="35.1554933" lon="136.9256829" timestamp="2012-02-07T15:29:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10613172" id="1621753654" lat="35.1555008" lon="136.9241777" timestamp="2012-02-07T15:29:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10613172" id="1621753684" lat="35.1556757" lon="136.9248571" timestamp="2012-02-07T15:29:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24852393" id="1621753685" lat="35.1556927" lon="136.92456" timestamp="2014-08-19T08:23:21Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="24852393" id="1621753690" lat="35.1557188" lon="136.9247984" timestamp="2014-08-19T08:23:21Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="10613172" id="1621753692" lat="35.1557064" lon="136.9246848" timestamp="2012-02-07T15:29:21Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10613172" id="1621753693" lat="35.1557632" lon="136.9247932" timestamp="2012-02-07T15:29:21Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="15348393" id="1621753696" lat="35.1557869" lon="136.9251733" timestamp="2013-03-13T08:08:03Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1621753697" lat="35.1558278" lon="136.9255151" timestamp="2013-03-13T08:08:03Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="22083038" id="1621753700" lat="35.1558219" lon="136.9264008" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="22083038" id="1621753702" lat="35.1558374" lon="136.9264667" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="22083038" id="1621753715" lat="35.1558369" lon="136.9265915" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="22083038" id="1621753718" lat="35.1558583" lon="136.9265839" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="22083038" id="1621753719" lat="35.1558994" lon="136.9263735" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1621753721" lat="35.1559056" lon="136.9251521" timestamp="2013-03-13T08:08:03Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1621753724" lat="35.1559465" lon="136.9254939" timestamp="2013-03-13T08:08:03Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1621753726" lat="35.1559416" lon="136.9248178" timestamp="2013-03-13T08:08:03Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1621753731" lat="35.1559679" lon="136.9248132" timestamp="2013-03-13T08:08:03Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1621753741" lat="35.1560172" lon="136.9254663" timestamp="2013-03-13T08:08:03Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="15348393" id="1621753745" lat="35.156035" lon="136.9254632" timestamp="2013-03-13T08:08:04Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="24852393" id="1621753751" lat="35.1561042" lon="136.9265612" timestamp="2014-08-19T08:23:21Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="24852393" id="1621753752" lat="35.1559525" lon="136.9231684" timestamp="2014-08-19T08:23:21Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="10613172" id="1621753754" lat="35.1561657" lon="136.926797" timestamp="2012-02-07T15:29:22Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10613172" id="1621753757" lat="35.1562315" lon="136.926909" timestamp="2012-02-07T15:29:22Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10613172" id="1621753758" lat="35.1562507" lon="136.9246942" timestamp="2012-02-07T15:29:22Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10613172" id="1621753760" lat="35.1562508" lon="136.9269935" timestamp="2012-02-07T15:29:22Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24859676" id="1621753763" lat="35.1562191" lon="136.923158" timestamp="2014-08-19T13:38:25Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="24859676" id="1621753779" lat="35.1564145" lon="136.9231661" timestamp="2014-08-19T13:38:25Z" uid="146930" user="Tom_G3X" version="3" visible="true" />
+  <node changeset="22083038" id="1630915043" lat="35.1559453" lon="136.9268903" timestamp="2014-05-02T11:59:43Z" uid="146930" user="Tom_G3X" version="4" visible="true">
+    <tag k="addr:full" v="愛知県名古屋市昭和区狭間町32" />
+    <tag k="addr:postcode" v="466-0062" />
+    <tag k="atm" v="yes" />
+    <tag k="branch" v="昭和狭間町店" />
+    <tag k="brand" v="サークルK" />
+    <tag k="level" v="0" />
+    <tag k="name" v="サークルK" />
+    <tag k="name:en" v="Circle K" />
+    <tag k="name:ja" v="サークルK" />
+    <tag k="name:ja_rm" v="Sākuru-Kei" />
+    <tag k="opening_hours" v="24/7" />
+    <tag k="operator" v="サークルKサンクス" />
+    <tag k="phone" v="+81-52-7318933" />
+    <tag k="shop" v="convenience" />
+    <tag k="source" v="Bing 2010; (URL) 2012" />
+    <tag k="website" v="http://www.circleksunkus.jp/" />
+    <tag k="wikipedia" v="ja:サークルKサンクス" />
+  </node>
+  <node changeset="10670396" id="1630915044" lat="35.155762" lon="136.9267998" timestamp="2012-02-13T06:02:36Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670396" id="1630915045" lat="35.155833" lon="136.9270923" timestamp="2012-02-13T06:02:36Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670396" id="1630915046" lat="35.1558803" lon="136.9267569" timestamp="2012-02-13T06:02:36Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670396" id="1630915047" lat="35.1559513" lon="136.9270493" timestamp="2012-02-13T06:02:36Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="15348393" id="1630948360" lat="35.1555546" lon="136.9247179" timestamp="2013-03-13T08:08:04Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1630948362" lat="35.1555625" lon="136.9247774" timestamp="2013-03-13T08:08:04Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1630948364" lat="35.155574" lon="136.9247936" timestamp="2013-03-13T08:08:04Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1630948366" lat="35.1555801" lon="136.9248413" timestamp="2013-03-13T08:08:04Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1630948368" lat="35.1556305" lon="136.9247028" timestamp="2013-03-13T08:08:04Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1630948371" lat="35.1556384" lon="136.9247623" timestamp="2013-03-13T08:08:04Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="10670493" id="1630948376" lat="35.155678" lon="136.9247271" timestamp="2012-02-13T06:44:21Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <tag k="smoking" v="yes" />
+  </node>
+  <node changeset="15348393" id="1630948377" lat="35.1556879" lon="136.9247718" timestamp="2013-03-13T08:08:04Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1630948379" lat="35.1556941" lon="136.9248195" timestamp="2013-03-13T08:08:04Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="20408651" id="1630948380" lat="35.1557945" lon="136.9260377" timestamp="2014-02-06T09:45:34Z" uid="416346" user="Brian@Brea" version="2" visible="true">
+    <tag k="emergency" v="defibrillator" />
+  </node>
+  <node changeset="15348393" id="1630975540" lat="35.155061" lon="136.9238912" timestamp="2013-03-13T08:08:05Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1630975547" lat="35.1551768" lon="136.9243933" timestamp="2013-03-13T08:08:05Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="24852393" id="1630975558" lat="35.1553228" lon="136.9249972" timestamp="2014-08-19T08:23:22Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="15348393" id="1630975559" lat="35.1553064" lon="136.9237985" timestamp="2013-03-13T08:08:05Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="10670627" id="1630975561" lat="35.1553383" lon="136.9250257" timestamp="2012-02-13T07:24:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975574" lat="35.1554636" lon="136.9242739" timestamp="2012-02-13T07:24:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975578" lat="35.1554835" lon="136.9243662" timestamp="2012-02-13T07:24:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975579" lat="35.1554926" lon="136.9244564" timestamp="2012-02-13T07:24:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975581" lat="35.1555074" lon="136.9256787" timestamp="2012-02-13T07:24:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975586" lat="35.1555083" lon="136.9246055" timestamp="2012-02-13T07:24:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975587" lat="35.1555166" lon="136.9247312" timestamp="2012-02-13T07:24:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975594" lat="35.1555423" lon="136.9248093" timestamp="2012-02-13T07:24:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24852393" id="1630975597" lat="35.1555896" lon="136.9248964" timestamp="2014-08-19T08:23:22Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="10670627" id="1630975598" lat="35.1556045" lon="136.924889" timestamp="2012-02-13T07:24:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975600" lat="35.1556135" lon="136.9249223" timestamp="2012-02-13T07:24:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975602" lat="35.15564" lon="136.9249405" timestamp="2012-02-13T07:24:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975603" lat="35.1556691" lon="136.9249922" timestamp="2012-02-13T07:24:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975607" lat="35.1556931" lon="136.92505" timestamp="2012-02-13T07:24:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975608" lat="35.1557138" lon="136.9251119" timestamp="2012-02-13T07:24:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="15348393" id="1630975609" lat="35.1557199" lon="136.9249586" timestamp="2013-03-13T08:08:05Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="10670627" id="1630975610" lat="35.1557271" lon="136.9251808" timestamp="2012-02-13T07:24:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975611" lat="35.1557279" lon="136.9252437" timestamp="2012-02-13T07:24:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975613" lat="35.1557279" lon="136.9253116" timestamp="2012-02-13T07:24:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975614" lat="35.1557362" lon="136.9253867" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="15348393" id="1630975615" lat="35.1557394" lon="136.9249553" timestamp="2013-03-13T08:08:05Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="10670627" id="1630975616" lat="35.155752" lon="136.9255894" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975617" lat="35.155753" lon="136.9245798" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975618" lat="35.1557596" lon="136.9246447" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975619" lat="35.1557644" lon="136.925555" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975621" lat="35.1557663" lon="136.9246974" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975622" lat="35.1557779" lon="136.9245595" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975623" lat="35.1557785" lon="136.9255641" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975625" lat="35.1557895" lon="136.9247137" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975626" lat="35.155811" lon="136.9257276" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975627" lat="35.1558177" lon="136.9256364" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975629" lat="35.1558525" lon="136.9245413" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975630" lat="35.155869" lon="136.9247015" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975632" lat="35.155879" lon="136.9256141" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975634" lat="35.1559403" lon="136.9256303" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975636" lat="35.1559735" lon="136.9257844" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975638" lat="35.156015" lon="136.9258351" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975639" lat="35.156015" lon="136.9265672" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975640" lat="35.1560398" lon="136.9259203" timestamp="2012-02-13T07:24:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975643" lat="35.1560664" lon="136.9260034" timestamp="2012-02-13T07:24:18Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="10670627" id="1630975645" lat="35.1561277" lon="136.9265287" timestamp="2012-02-13T07:24:18Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24900848" id="1630975661" lat="35.1564626" lon="136.9271854" timestamp="2014-08-21T05:22:19Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="24900848" id="1630975664" lat="35.1567843" lon="136.9271836" timestamp="2014-08-21T05:22:19Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="10707773" id="1636125932" lat="35.1554489" lon="136.9247536" timestamp="2012-02-17T04:25:16Z" uid="606278" user="M-STA" version="1" visible="true">
+    <tag k="amenity" v="pub" />
+    <tag k="name" v="とりのすけ鶴舞店" />
+    <tag k="source" v="bing" />
+  </node>
+  <node changeset="14241510" id="2061997625" lat="35.1554946" lon="136.930954" timestamp="2012-12-11T18:50:45Z" uid="651065" user="futurumspes" version="1" visible="true">
+    <tag k="highway" v="crossing" />
+    <tag k="source" v="Bing 2010" />
+  </node>
+  <node changeset="14241510" id="2061997632" lat="35.1554545" lon="136.9311812" timestamp="2012-12-11T18:50:45Z" uid="651065" user="futurumspes" version="1" visible="true">
+    <tag k="highway" v="crossing" />
+    <tag k="source" v="Bing 2010" />
+  </node>
+  <node changeset="16202369" id="2141189712" lat="35.155283" lon="136.925436" timestamp="2013-05-20T03:27:46Z" uid="146930" user="Tom_G3X" version="3" visible="true">
+    <tag k="amenity" v="restaurant" />
+    <tag k="smoking" v="yes" />
+    <tag k="wheelchair" v="yes" />
+  </node>
+  <node changeset="26226720" id="2141190364" lat="35.155239" lon="136.925195" timestamp="2014-10-21T03:16:55Z" uid="146930" user="Tom_G3X" version="2" visible="true">
+    <tag k="amenity" v="cafe" />
+    <tag k="name" v="LIEBE" />
+    <tag k="phone" v="052-733-5843" />
+  </node>
+  <node changeset="15348393" id="2199190201" lat="35.1558808" lon="136.9249356" timestamp="2013-03-13T08:07:49Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="15348393" id="2199190204" lat="35.1558864" lon="136.9250001" timestamp="2013-03-13T08:07:49Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="15348393" id="2199190211" lat="35.1558984" lon="136.9249326" timestamp="2013-03-13T08:07:49Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="15348393" id="2199190214" lat="35.1559057" lon="136.9249968" timestamp="2013-03-13T08:07:49Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="15348393" id="2199190227" lat="35.1560337" lon="136.9247814" timestamp="2013-03-13T08:07:49Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="15348393" id="2199190228" lat="35.1560361" lon="136.924802" timestamp="2013-03-13T08:07:49Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928180" lat="35.1549161" lon="136.9264597" timestamp="2013-07-25T07:41:55Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928185" lat="35.1549183" lon="136.9265168" timestamp="2013-07-25T07:41:55Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928271" lat="35.1549582" lon="136.9264639" timestamp="2013-07-25T07:41:57Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928272" lat="35.1549591" lon="136.9264771" timestamp="2013-07-25T07:41:57Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928279" lat="35.1549636" lon="136.9265247" timestamp="2013-07-25T07:41:58Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928312" lat="35.1549796" lon="136.9265606" timestamp="2013-07-25T07:41:59Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928325" lat="35.1549859" lon="136.9264834" timestamp="2013-07-25T07:41:59Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928482" lat="35.1550602" lon="136.9265105" timestamp="2013-07-25T07:42:03Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928493" lat="35.1550677" lon="136.9265319" timestamp="2013-07-25T07:42:03Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928542" lat="35.1550922" lon="136.9265217" timestamp="2013-07-25T07:42:05Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928604" lat="35.1551274" lon="136.9266164" timestamp="2013-07-25T07:42:07Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928618" lat="35.1551359" lon="136.9263958" timestamp="2013-07-25T07:42:07Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928625" lat="35.1551385" lon="136.925325" timestamp="2013-07-25T07:42:07Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928629" lat="35.1551415" lon="136.9260865" timestamp="2013-07-25T07:42:08Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928633" lat="35.1551451" lon="136.9260985" timestamp="2013-07-25T07:42:08Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928634" lat="35.1551464" lon="136.9266063" timestamp="2013-07-25T07:42:08Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928648" lat="35.155153" lon="136.925384" timestamp="2013-07-25T07:42:08Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928658" lat="35.1551616" lon="136.9270611" timestamp="2013-07-25T07:42:08Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928664" lat="35.1551636" lon="136.9260903" timestamp="2013-07-25T07:42:09Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928667" lat="35.1551656" lon="136.9266575" timestamp="2013-07-25T07:42:09Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928669" lat="35.1551657" lon="136.9257761" timestamp="2013-07-25T07:42:09Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928674" lat="35.1551679" lon="136.9268931" timestamp="2013-07-25T07:42:09Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928675" lat="35.155168" lon="136.9261052" timestamp="2013-07-25T07:42:09Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928679" lat="35.1551704" lon="136.9267586" timestamp="2013-07-25T07:42:09Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928690" lat="35.1551744" lon="136.9268046" timestamp="2013-07-25T07:42:09Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928691" lat="35.1551746" lon="136.9266796" timestamp="2013-07-25T07:42:09Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928695" lat="35.1551794" lon="136.9261141" timestamp="2013-07-25T07:42:09Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928697" lat="35.1551805" lon="136.9254621" timestamp="2013-07-25T07:42:09Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928700" lat="35.1551813" lon="136.9267571" timestamp="2013-07-25T07:42:10Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928704" lat="35.1551823" lon="136.9258619" timestamp="2013-07-25T07:42:10Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928713" lat="35.1551881" lon="136.9266395" timestamp="2013-07-25T07:42:10Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928715" lat="35.1551884" lon="136.9255549" timestamp="2013-07-25T07:42:10Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928716" lat="35.1551893" lon="136.9268026" timestamp="2013-07-25T07:42:10Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928722" lat="35.1551936" lon="136.9268513" timestamp="2013-07-25T07:42:10Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928723" lat="35.1551951" lon="136.9253685" timestamp="2013-07-25T07:42:10Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928724" lat="35.1551961" lon="136.9266543" timestamp="2013-07-25T07:42:10Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928735" lat="35.1552021" lon="136.9255499" timestamp="2013-07-25T07:42:11Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928736" lat="35.1552034" lon="136.9254024" timestamp="2013-07-25T07:42:11Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928741" lat="35.155205" lon="136.9251572" timestamp="2013-07-25T07:42:11Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928744" lat="35.1552092" lon="136.9256396" timestamp="2013-07-25T07:42:11Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928748" lat="35.1552109" lon="136.9251866" timestamp="2013-07-25T07:42:11Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928769" lat="35.1552158" lon="136.9253978" timestamp="2013-07-25T07:42:12Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928801" lat="35.1552249" lon="136.9268472" timestamp="2013-07-25T07:42:12Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928803" lat="35.1552267" lon="136.9268677" timestamp="2013-07-25T07:42:12Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928811" lat="35.1552274" lon="136.9254449" timestamp="2013-07-25T07:42:12Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928820" lat="35.1552286" lon="136.9256324" timestamp="2013-07-25T07:42:13Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928823" lat="35.1552298" lon="136.9252804" timestamp="2013-07-25T07:42:13Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928827" lat="35.1552305" lon="136.9256402" timestamp="2013-07-25T07:42:13Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928837" lat="35.1552321" lon="136.9270651" timestamp="2013-07-25T07:42:13Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928838" lat="35.1552337" lon="136.9266268" timestamp="2013-07-25T07:42:13Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928839" lat="35.1552347" lon="136.9256779" timestamp="2013-07-25T07:42:13Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928844" lat="35.1552384" lon="136.926897" timestamp="2013-07-25T07:42:13Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928854" lat="35.1552459" lon="136.9260403" timestamp="2013-07-25T07:42:13Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928857" lat="35.155247" lon="136.925731" timestamp="2013-07-25T07:42:13Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928858" lat="35.1552477" lon="136.9257524" timestamp="2013-07-25T07:42:13Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928861" lat="35.1552498" lon="136.9264276" timestamp="2013-07-25T07:42:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928864" lat="35.1552539" lon="136.9260672" timestamp="2013-07-25T07:42:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928869" lat="35.1552551" lon="136.9260886" timestamp="2013-07-25T07:42:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928872" lat="35.1552602" lon="136.9266684" timestamp="2013-07-25T07:42:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928880" lat="35.1552634" lon="136.9267055" timestamp="2013-07-25T07:42:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928882" lat="35.1552643" lon="136.9258382" timestamp="2013-07-25T07:42:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928887" lat="35.155269" lon="136.9268052" timestamp="2013-07-25T07:42:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928888" lat="35.1552695" lon="136.9252768" timestamp="2013-07-25T07:42:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928890" lat="35.1552705" lon="136.9251374" timestamp="2013-07-25T07:42:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928898" lat="35.1552738" lon="136.9246829" timestamp="2013-07-25T07:42:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928899" lat="35.1552739" lon="136.9268616" timestamp="2013-07-25T07:42:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928904" lat="35.1552803" lon="136.9251864" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928907" lat="35.1552814" lon="136.9271387" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928909" lat="35.1552827" lon="136.926703" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928910" lat="35.1552842" lon="136.9253363" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928911" lat="35.1552847" lon="136.9270776" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928919" lat="35.1552891" lon="136.9247467" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928921" lat="35.1552913" lon="136.9268023" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928927" lat="35.155293" lon="136.9257358" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928928" lat="35.1552935" lon="136.9256171" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928929" lat="35.1552938" lon="136.9271666" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928931" lat="35.1552952" lon="136.9271398" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928932" lat="35.1552953" lon="136.9252606" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928939" lat="35.1553" lon="136.9256435" timestamp="2013-07-25T07:42:15Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928942" lat="35.1553002" lon="136.9270789" timestamp="2013-07-25T07:42:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928947" lat="35.1553059" lon="136.9248842" timestamp="2013-07-25T07:42:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928949" lat="35.1553078" lon="136.9269384" timestamp="2013-07-25T07:42:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928953" lat="35.155311" lon="136.9253264" timestamp="2013-07-25T07:42:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928954" lat="35.1553113" lon="136.9258123" timestamp="2013-07-25T07:42:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24993021" id="2395928976" lat="35.155325" lon="136.9249665" timestamp="2014-08-25T01:23:09Z" uid="2273792" user="ikoroahyhtmdmymymn" version="2" visible="true" />
+  <node changeset="17084757" id="2395928977" lat="35.1553255" lon="136.9264021" timestamp="2013-07-25T07:42:16Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395928996" lat="35.1553418" lon="136.9256408" timestamp="2013-07-25T07:42:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929001" lat="35.1553454" lon="136.9258305" timestamp="2013-07-25T07:42:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929011" lat="35.1553541" lon="136.9256939" timestamp="2013-07-25T07:42:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929031" lat="35.1553653" lon="136.9259141" timestamp="2013-07-25T07:42:18Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929034" lat="35.155368" lon="136.9269708" timestamp="2013-07-25T07:42:18Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929037" lat="35.1553692" lon="136.924863" timestamp="2013-07-25T07:42:18Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929038" lat="35.1553695" lon="136.9269435" timestamp="2013-07-25T07:42:18Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929044" lat="35.1553716" lon="136.927173" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929048" lat="35.1553735" lon="136.9271387" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929056" lat="35.1553805" lon="136.9257044" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929057" lat="35.1553809" lon="136.927017" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929058" lat="35.1553816" lon="136.9256134" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929059" lat="35.1553821" lon="136.9270837" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929060" lat="35.1553834" lon="136.926972" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929061" lat="35.1553836" lon="136.92468" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929064" lat="35.1553847" lon="136.9271848" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929066" lat="35.1553857" lon="136.9270173" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929068" lat="35.1553867" lon="136.9247225" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929069" lat="35.1553872" lon="136.9271398" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929070" lat="35.1553878" lon="136.9249465" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929072" lat="35.1553887" lon="136.9247919" timestamp="2013-07-25T07:42:19Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929074" lat="35.155389" lon="136.9272147" timestamp="2013-07-25T07:42:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929075" lat="35.1553906" lon="136.9271853" timestamp="2013-07-25T07:42:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929077" lat="35.1553908" lon="136.9247102" timestamp="2013-07-25T07:42:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929092" lat="35.1553989" lon="136.9257809" timestamp="2013-07-25T07:42:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929096" lat="35.1554002" lon="136.9248396" timestamp="2013-07-25T07:42:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929098" lat="35.1554023" lon="136.924787" timestamp="2013-07-25T07:42:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929102" lat="35.1554032" lon="136.9246364" timestamp="2013-07-25T07:42:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929108" lat="35.1554067" lon="136.9258086" timestamp="2013-07-25T07:42:20Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929113" lat="35.1554086" lon="136.927228" timestamp="2013-07-25T07:42:21Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929115" lat="35.1554092" lon="136.9272164" timestamp="2013-07-25T07:42:21Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929118" lat="35.1554113" lon="136.92467" timestamp="2013-07-25T07:42:21Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929134" lat="35.1554241" lon="136.9262231" timestamp="2013-07-25T07:42:21Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929142" lat="35.1554266" lon="136.9258922" timestamp="2013-07-25T07:42:21Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929159" lat="35.155434" lon="136.9271524" timestamp="2013-07-25T07:42:22Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929160" lat="35.1554375" lon="136.9270882" timestamp="2013-07-25T07:42:22Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929190" lat="35.1554596" lon="136.9260757" timestamp="2013-07-25T07:42:23Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929205" lat="35.1554731" lon="136.9261298" timestamp="2013-07-25T07:42:23Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929208" lat="35.155481" lon="136.9272339" timestamp="2013-07-25T07:42:23Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929209" lat="35.1554813" lon="136.9246883" timestamp="2013-07-25T07:42:23Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929213" lat="35.1554852" lon="136.9271566" timestamp="2013-07-25T07:42:23Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929214" lat="35.1554858" lon="136.926066" timestamp="2013-07-25T07:42:23Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929236" lat="35.1554993" lon="136.92612" timestamp="2013-07-25T07:42:24Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929238" lat="35.1555028" lon="136.9261944" timestamp="2013-07-25T07:42:24Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929247" lat="35.1555084" lon="136.9248005" timestamp="2013-07-25T07:42:24Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929276" lat="35.1555358" lon="136.9272443" timestamp="2013-07-25T07:42:25Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929280" lat="35.1555412" lon="136.9270999" timestamp="2013-07-25T07:42:25Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929322" lat="35.1555879" lon="136.9271236" timestamp="2013-07-25T07:42:27Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929323" lat="35.1555887" lon="136.9271026" timestamp="2013-07-25T07:42:27Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929336" lat="35.1555972" lon="136.9272478" timestamp="2013-07-25T07:42:27Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929348" lat="35.1556019" lon="136.9271244" timestamp="2013-07-25T07:42:28Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929352" lat="35.1556078" lon="136.9270311" timestamp="2013-07-25T07:42:28Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929356" lat="35.1556102" lon="136.9270613" timestamp="2013-07-25T07:42:28Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929357" lat="35.1556106" lon="136.9269856" timestamp="2013-07-25T07:42:28Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929365" lat="35.1556165" lon="136.9272306" timestamp="2013-07-25T07:42:28Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929367" lat="35.155617" lon="136.9271847" timestamp="2013-07-25T07:42:28Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929368" lat="35.1556176" lon="136.9271424" timestamp="2013-07-25T07:42:28Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929373" lat="35.1556246" lon="136.9271711" timestamp="2013-07-25T07:42:28Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929374" lat="35.1556261" lon="136.9270922" timestamp="2013-07-25T07:42:29Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929384" lat="35.1556367" lon="136.9271355" timestamp="2013-07-25T07:42:29Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929389" lat="35.1556414" lon="136.927261" timestamp="2013-07-25T07:42:29Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929390" lat="35.1556417" lon="136.9272311" timestamp="2013-07-25T07:42:29Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929401" lat="35.1556586" lon="136.9272001" timestamp="2013-07-25T07:42:29Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929403" lat="35.1556588" lon="136.9271855" timestamp="2013-07-25T07:42:29Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929405" lat="35.1556592" lon="136.9270801" timestamp="2013-07-25T07:42:29Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929406" lat="35.1556614" lon="136.9270891" timestamp="2013-07-25T07:42:29Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929419" lat="35.155672" lon="136.9271539" timestamp="2013-07-25T07:42:30Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929426" lat="35.1556774" lon="136.9272617" timestamp="2013-07-25T07:42:30Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929429" lat="35.1556782" lon="136.9272005" timestamp="2013-07-25T07:42:30Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929430" lat="35.1556785" lon="136.9271807" timestamp="2013-07-25T07:42:30Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929435" lat="35.1556872" lon="136.9272274" timestamp="2013-07-25T07:42:30Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929438" lat="35.1556892" lon="136.9269568" timestamp="2013-07-25T07:42:30Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929447" lat="35.1556952" lon="136.9272656" timestamp="2013-07-25T07:42:31Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929453" lat="35.1557051" lon="136.927185" timestamp="2013-07-25T07:42:31Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929454" lat="35.1557072" lon="136.9270189" timestamp="2013-07-25T07:42:31Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929457" lat="35.1557097" lon="136.9270491" timestamp="2013-07-25T07:42:31Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929462" lat="35.1557123" lon="136.9272195" timestamp="2013-07-25T07:42:31Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929469" lat="35.1557194" lon="136.927068" timestamp="2013-07-25T07:42:31Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929484" lat="35.1557412" lon="136.9271578" timestamp="2013-07-25T07:42:31Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929496" lat="35.1557555" lon="136.9271692" timestamp="2013-07-25T07:42:32Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929512" lat="35.1557707" lon="136.9272419" timestamp="2013-07-25T07:42:32Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929519" lat="35.1557808" lon="136.9266968" timestamp="2013-07-25T07:42:32Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929530" lat="35.1557999" lon="136.9267731" timestamp="2013-07-25T07:42:33Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929600" lat="35.155866" lon="136.927145" timestamp="2013-07-25T07:42:34Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929620" lat="35.155875" lon="136.9271801" timestamp="2013-07-25T07:42:35Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929631" lat="35.1558853" lon="136.9271761" timestamp="2013-07-25T07:42:35Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929636" lat="35.1558949" lon="136.9272136" timestamp="2013-07-25T07:42:35Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929670" lat="35.1559357" lon="136.9271184" timestamp="2013-07-25T07:42:36Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929675" lat="35.1559436" lon="136.9271496" timestamp="2013-07-25T07:42:36Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929681" lat="35.1559574" lon="136.9271443" timestamp="2013-07-25T07:42:36Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929691" lat="35.155968" lon="136.9271856" timestamp="2013-07-25T07:42:36Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929753" lat="35.1560669" lon="136.92659" timestamp="2013-07-25T07:42:38Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="17084757" id="2395929772" lat="35.156086" lon="136.9266663" timestamp="2013-07-25T07:42:38Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293091" lat="35.1555715" lon="136.9259362" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293092" lat="35.1555844" lon="136.9259913" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293093" lat="35.1555854" lon="136.9259313" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293094" lat="35.1555983" lon="136.9259864" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293095" lat="35.1557147" lon="136.9263075" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293096" lat="35.155725" lon="136.9263512" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293097" lat="35.155761" lon="136.9262912" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293098" lat="35.1557713" lon="136.9263349" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293099" lat="35.1558827" lon="136.9256591" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293100" lat="35.1558863" lon="136.9256996" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293401" lat="35.1558892" lon="136.9259018" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293402" lat="35.1558979" lon="136.9259387" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293403" lat="35.1559109" lon="136.9258942" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293404" lat="35.1559139" lon="136.9256551" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293405" lat="35.1559174" lon="136.9256955" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="22083038" id="2831293406" lat="35.1559196" lon="136.9259311" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24880116" id="3026866505" lat="35.1572541" lon="136.9232686" timestamp="2014-08-20T09:58:24Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="24880116" id="3026866506" lat="35.157289" lon="136.9232828" timestamp="2014-08-20T09:58:24Z" uid="146930" user="Tom_G3X" version="2" visible="true" />
+  <node changeset="24852393" id="3026866507" lat="35.1573698" lon="136.9233144" timestamp="2014-08-19T08:23:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24852393" id="3026866509" lat="35.1574681" lon="136.9232945" timestamp="2014-08-19T08:23:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24852393" id="3026866528" lat="35.1588372" lon="136.9257625" timestamp="2014-08-19T08:23:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24852393" id="3026866529" lat="35.1589331" lon="136.926541" timestamp="2014-08-19T08:23:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24852393" id="3026866530" lat="35.1592813" lon="136.9256796" timestamp="2014-08-19T08:23:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24852393" id="3026866531" lat="35.1594138" lon="136.9244733" timestamp="2014-08-19T08:23:17Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24880116" id="3029359828" lat="35.1550178" lon="136.9260749" timestamp="2014-08-20T09:58:12Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24900848" id="3031317539" lat="35.1569167" lon="136.9271892" timestamp="2014-08-21T05:22:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24900848" id="3031317555" lat="35.1573097" lon="136.92712" timestamp="2014-08-21T05:22:14Z" uid="146930" user="Tom_G3X" version="1" visible="true" />
+  <node changeset="24993021" id="3040246671" lat="35.1555582" lon="136.924884" timestamp="2014-08-25T01:23:09Z" uid="2273792" user="ikoroahyhtmdmymymn" version="1" visible="true" />
+  <node changeset="24993021" id="3040246672" lat="35.1552745" lon="136.9247531" timestamp="2014-08-25T01:23:09Z" uid="2273792" user="ikoroahyhtmdmymymn" version="1" visible="true" />
+  <node changeset="24993021" id="3040246673" lat="35.1553713" lon="136.9247189" timestamp="2014-08-25T01:23:09Z" uid="2273792" user="ikoroahyhtmdmymymn" version="1" visible="true" />
+  <node changeset="24993021" id="3040246674" lat="35.1553996" lon="136.9248386" timestamp="2014-08-25T01:23:09Z" uid="2273792" user="ikoroahyhtmdmymymn" version="1" visible="true" />
+  <node changeset="24993021" id="3040246675" lat="35.155536" lon="136.9247903" timestamp="2014-08-25T01:23:09Z" uid="2273792" user="ikoroahyhtmdmymymn" version="1" visible="true" />
+  <node changeset="24994563" id="3040329982" lat="35.1556306" lon="136.9256591" timestamp="2014-08-25T04:37:40Z" uid="2273792" user="ikoroahyhtmdmymymn" version="1" visible="true" />
+  <node changeset="24994563" id="3040329983" lat="35.1555697" lon="136.9256802" timestamp="2014-08-25T04:37:40Z" uid="2273792" user="ikoroahyhtmdmymymn" version="1" visible="true" />
+  <node changeset="24994563" id="3040329984" lat="35.1556087" lon="136.9258493" timestamp="2014-08-25T04:37:40Z" uid="2273792" user="ikoroahyhtmdmymymn" version="1" visible="true" />
+  <node changeset="24994563" id="3040329985" lat="35.1556697" lon="136.9258282" timestamp="2014-08-25T04:37:40Z" uid="2273792" user="ikoroahyhtmdmymymn" version="1" visible="true" />
+  <way changeset="24900848" id="51560706" timestamp="2014-08-21T05:22:17Z" uid="146930" user="Tom_G3X" version="10" visible="true">
+    <nd ref="659371349" />
+    <nd ref="3026866531" />
+    <nd ref="3026866530" />
+    <nd ref="659371355" />
+    <nd ref="659371337" />
+    <nd ref="3026866528" />
+    <nd ref="3026866529" />
+    <nd ref="659371338" />
+    <nd ref="659371344" />
+    <nd ref="659371345" />
+    <nd ref="3031317555" />
+    <nd ref="1583573966" />
+    <nd ref="1583573906" />
+    <nd ref="3031317539" />
+    <nd ref="1630975664" />
+    <nd ref="1630975661" />
+    <nd ref="1583573887" />
+    <nd ref="1621753760" />
+    <nd ref="1621753757" />
+    <nd ref="1621753754" />
+    <nd ref="1621753751" />
+    <nd ref="659371310" />
+    <nd ref="1621753651" />
+    <nd ref="1630975558" />
+    <nd ref="1630975597" />
+    <nd ref="1630975594" />
+    <nd ref="1630975587" />
+    <nd ref="1630975586" />
+    <nd ref="1630975579" />
+    <nd ref="1630975578" />
+    <nd ref="1630975574" />
+    <nd ref="1630975547" />
+    <nd ref="1630975540" />
+    <nd ref="1630975559" />
+    <nd ref="1621753623" />
+    <nd ref="659371308" />
+    <nd ref="1621753752" />
+    <nd ref="1621753763" />
+    <nd ref="1621753779" />
+    <nd ref="659371320" />
+    <nd ref="3026866505" />
+    <nd ref="3026866506" />
+    <nd ref="3026866507" />
+    <nd ref="3026866509" />
+    <nd ref="659371349" />
+    <tag k="addr:full" v="名古屋市昭和区御器所町" />
+    <tag k="addr:postcode" v="466-8555" />
+    <tag k="amenity" v="university" />
+    <tag k="name" v="名古屋工業大学 (Nagoya Institute of Technology)" />
+    <tag k="name:en" v="Nagoya Institute of Technology" />
+    <tag k="name:ja" v="名古屋工業大学" />
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan" />
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省" />
+    <tag k="phone" v="+81-52-7355000" />
+    <tag k="source" v="KSJ2; (URL)" />
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html" />
+    <tag k="website" v="http://www.nitech.ac.jp/" />
+    <tag k="wikipedia" v="ja:名古屋工業大学" />
+  </way>
+  <way changeset="14241510" id="51560710" timestamp="2012-12-11T18:50:48Z" uid="651065" user="futurumspes" version="6" visible="true">
+    <nd ref="659371307" />
+    <nd ref="2" /><nd ref="664543395" />
+    <nd ref="3" /><nd ref="664543415" />
+    <nd ref="4" /><nd ref="659371309" />
+    <nd ref="599495462" />
+    <nd ref="664543471" />
+    <nd ref="664543473" />
+    <nd ref="664543468" />
+    <nd ref="1" /><nd ref="2061997625" />
+    <nd ref="659371311" />
+    <nd ref="2061997632" />
+    <nd ref="664543490" />
+    <nd ref="664543494" />
+    <nd ref="659371312" />
+    <nd ref="1161388471" />
+    <nd ref="1608088508" />
+    <nd ref="1045031485" />
+    <nd ref="1161388502" />
+    <nd ref="605305112" />
+    <nd ref="1608088498" />
+    <tag k="highway" v="tertiary" />
+    <tag k="lanes" v="2" />
+    <tag k="source" v="NRPB of MLIT Japan" />
+    <tag k="source:ja" v="国土画像情報（オルソ化空中写真）国土計画局" />
+    <tag k="surface" v="paved" />
+  </way>
+  <way changeset="14241711" id="52162006" timestamp="2012-12-11T19:09:33Z" uid="651065" user="futurumspes" version="3" visible="true">
+    <nd ref="664543395" />
+    <nd ref="664543394" />
+    <nd ref="664543392" />
+    <nd ref="664543393" />
+    <nd ref="664543371" />
+    <tag k="highway" v="residential" />
+    <tag k="source" v="NRPB of MLIT Japan" />
+    <tag k="source:ja" v="国土画像情報（オルソ化空中写真）国土計画局" />
+    <tag k="surface" v="paved" />
+  </way>
+  <way changeset="12544108" id="144867632" timestamp="2012-07-30T07:33:23Z" uid="146930" user="Tom_G3X" version="5" visible="true">
+    <nd ref="1583573842" />
+    <nd ref="1583573834" />
+    <nd ref="1583573838" />
+    <nd ref="1583573853" />
+    <nd ref="1583573842" />
+    <tag k="boulding:color" v="white" />
+    <tag k="building" v="university" />
+    <tag k="building:height" v="8" />
+    <tag k="building:levels" v="2" />
+    <tag k="name" v="15号館" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="15348393" id="144867635" timestamp="2013-03-13T08:07:57Z" uid="146930" user="Tom_G3X" version="9" visible="true">
+    <nd ref="1583573877" />
+    <nd ref="2199190228" />
+    <nd ref="2199190227" />
+    <nd ref="1583573861" />
+    <nd ref="1621753731" />
+    <nd ref="1621753726" />
+    <nd ref="1621753741" />
+    <nd ref="1621753745" />
+    <nd ref="1583573870" />
+    <nd ref="1583573881" />
+    <nd ref="1583573877" />
+    <tag k="boulding:color" v="white" />
+    <tag k="building" v="university" />
+    <tag k="building:height" v="24" />
+    <tag k="building:levels" v="6" />
+    <tag k="name" v="11号館" />
+    <tag k="roof:color" v="green" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="15348393" id="144867641" timestamp="2013-03-13T08:07:57Z" uid="146930" user="Tom_G3X" version="8" visible="true">
+    <nd ref="1583573852" />
+    <nd ref="1583573839" />
+    <nd ref="1630975615" />
+    <nd ref="1630975609" />
+    <nd ref="1583573841" />
+    <nd ref="1583573855" />
+    <nd ref="2199190204" />
+    <nd ref="2199190214" />
+    <nd ref="2199190211" />
+    <nd ref="2199190201" />
+    <nd ref="1583573852" />
+    <tag k="boulding:color" v="white" />
+    <tag k="building" v="university" />
+    <tag k="building:height" v="8" />
+    <tag k="building:levels" v="2" />
+    <tag k="name" v="12号館" />
+    <tag k="roof:color" v="gray" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="12544108" id="144867642" timestamp="2012-07-30T07:33:23Z" uid="146930" user="Tom_G3X" version="5" visible="true">
+    <nd ref="1583573882" />
+    <nd ref="1583573885" />
+    <nd ref="1583573866" />
+    <nd ref="1583573864" />
+    <nd ref="1583573882" />
+    <tag k="boulding:color" v="white" />
+    <tag k="building" v="university" />
+    <tag k="building:height" v="8" />
+    <tag k="building:levels" v="2" />
+    <tag k="name" v="14号館" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="24900848" id="144867650" timestamp="2014-08-21T05:22:17Z" uid="146930" user="Tom_G3X" version="6" visible="true">
+    <nd ref="1621753719" />
+    <nd ref="1621753700" />
+    <nd ref="1621753702" />
+    <nd ref="1583573844" />
+    <nd ref="1621753715" />
+    <nd ref="1621753718" />
+    <nd ref="1583573847" />
+    <nd ref="1583573860" />
+    <nd ref="1621753719" />
+    <tag k="area" v="yes" />
+    <tag k="boulding:color" v="white" />
+    <tag k="building" v="university" />
+    <tag k="name" v="NIT" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="10339786" id="144867662" timestamp="2012-01-09T08:49:20Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="1583573863" />
+    <nd ref="1583573865" />
+    <nd ref="1583573868" />
+    <nd ref="1583573871" />
+    <nd ref="1583573867" />
+    <nd ref="1583573869" />
+    <nd ref="1583573859" />
+    <nd ref="1583573851" />
+    <nd ref="1583573863" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="12544231" id="149156669" timestamp="2012-07-30T07:45:06Z" uid="146930" user="Tom_G3X" version="5" visible="true">
+    <nd ref="1621753721" />
+    <nd ref="1621753724" />
+    <nd ref="1621753697" />
+    <nd ref="1621753696" />
+    <nd ref="1621753721" />
+    <tag k="boulding:color" v="white" />
+    <tag k="building" v="yes" />
+    <tag k="building:height" v="8" />
+    <tag k="building:levels" v="2" />
+    <tag k="name" v="13号館" />
+    <tag k="roof:color" v="green" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="10613172" id="149156676" timestamp="2012-02-07T15:29:25Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="1621753758" />
+    <nd ref="1621753693" />
+    <nd ref="1621753690" />
+    <tag k="highway" v="service" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="24852393" id="149156680" timestamp="2014-08-19T08:23:20Z" uid="146930" user="Tom_G3X" version="3" visible="true">
+    <nd ref="1621753654" />
+    <nd ref="1621753685" />
+    <nd ref="1621753692" />
+    <nd ref="1621753690" />
+    <nd ref="1621753684" />
+    <nd ref="1630975598" />
+    <tag k="highway" v="service" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="10670396" id="150159949" timestamp="2012-02-13T06:02:38Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="1630915046" />
+    <nd ref="1630915044" />
+    <nd ref="1630915045" />
+    <nd ref="1630915047" />
+    <nd ref="1630915046" />
+    <tag k="amenity" v="parking" />
+    <tag k="parking" v="surface" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="12544231" id="150162974" timestamp="2012-07-30T07:45:04Z" uid="146930" user="Tom_G3X" version="2" visible="true">
+    <nd ref="1630948377" />
+    <nd ref="1630948364" />
+    <nd ref="1630948366" />
+    <nd ref="1630948379" />
+    <nd ref="1630948377" />
+    <tag k="building" v="yes" />
+    <tag k="building:color" v="white" />
+    <tag k="roof:color" v="white" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="12544231" id="150162978" timestamp="2012-07-30T07:45:03Z" uid="146930" user="Tom_G3X" version="2" visible="true">
+    <nd ref="1630948368" />
+    <nd ref="1630948360" />
+    <nd ref="1630948362" />
+    <nd ref="1630948371" />
+    <nd ref="1630948368" />
+    <tag k="building" v="yes" />
+    <tag k="building:color" v="white" />
+    <tag k="roof:color" v="white" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="24852393" id="150166186" timestamp="2014-08-19T08:23:20Z" uid="146930" user="Tom_G3X" version="2" visible="true">
+    <nd ref="1630975598" />
+    <nd ref="1630975602" />
+    <nd ref="1630975603" />
+    <nd ref="1630975607" />
+    <nd ref="1630975608" />
+    <nd ref="1630975610" />
+    <nd ref="1630975611" />
+    <nd ref="1630975613" />
+    <nd ref="1630975614" />
+    <nd ref="1630975623" />
+    <tag k="highway" v="service" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="10670627" id="150166189" timestamp="2012-02-13T07:24:22Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="1630975645" />
+    <nd ref="1630975643" />
+    <nd ref="1630975640" />
+    <nd ref="1630975638" />
+    <nd ref="1630975636" />
+    <nd ref="1630975634" />
+    <nd ref="1630975632" />
+    <nd ref="1630975627" />
+    <nd ref="1630975626" />
+    <nd ref="1630975639" />
+    <nd ref="1630975645" />
+    <tag k="natural" v="wood" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="10670627" id="150166195" timestamp="2012-02-13T07:24:23Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="1630975600" />
+    <nd ref="1630975561" />
+    <nd ref="1630975581" />
+    <nd ref="1630975616" />
+    <nd ref="1630975619" />
+    <nd ref="1630975600" />
+    <tag k="amenity" v="parking" />
+    <tag k="parking" v="surface" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="10670627" id="150166197" timestamp="2012-02-13T07:24:23Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="1630975629" />
+    <nd ref="1630975630" />
+    <nd ref="1630975625" />
+    <nd ref="1630975621" />
+    <nd ref="1630975618" />
+    <nd ref="1630975617" />
+    <nd ref="1630975622" />
+    <nd ref="1630975629" />
+    <tag k="natural" v="wood" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="17084757" id="231183009" timestamp="2013-07-25T07:43:08Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929469" />
+    <nd ref="2395929484" />
+    <nd ref="2395929430" />
+    <nd ref="2395929419" />
+    <nd ref="2395929373" />
+    <nd ref="2395929368" />
+    <nd ref="2395929384" />
+    <nd ref="2395929374" />
+    <nd ref="2395929405" />
+    <nd ref="2395929406" />
+    <nd ref="2395929469" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183384" timestamp="2013-07-25T07:43:28Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395928691" />
+    <nd ref="2395928872" />
+    <nd ref="2395928880" />
+    <nd ref="2395928909" />
+    <nd ref="2395928921" />
+    <nd ref="2395928887" />
+    <nd ref="2395928899" />
+    <nd ref="2395928803" />
+    <nd ref="2395928801" />
+    <nd ref="2395928722" />
+    <nd ref="2395928716" />
+    <nd ref="2395928690" />
+    <nd ref="2395928679" />
+    <nd ref="2395928700" />
+    <nd ref="2395928691" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183436" timestamp="2013-07-25T07:43:35Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395928618" />
+    <nd ref="2395928838" />
+    <nd ref="2395928724" />
+    <nd ref="2395928713" />
+    <nd ref="2395928667" />
+    <nd ref="2395928634" />
+    <nd ref="2395928604" />
+    <nd ref="2395928542" />
+    <nd ref="2395928493" />
+    <nd ref="2395928482" />
+    <nd ref="2395928312" />
+    <nd ref="2395928279" />
+    <nd ref="2395928185" />
+    <nd ref="2395928180" />
+    <nd ref="2395928271" />
+    <nd ref="2395928272" />
+    <nd ref="2395928325" />
+    <nd ref="2395928618" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183444" timestamp="2013-07-25T07:43:36Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395928953" />
+    <nd ref="2395929058" />
+    <nd ref="2395928939" />
+    <nd ref="2395928928" />
+    <nd ref="2395928827" />
+    <nd ref="2395928820" />
+    <nd ref="2395928744" />
+    <nd ref="2395928715" />
+    <nd ref="2395928735" />
+    <nd ref="2395928697" />
+    <nd ref="2395928811" />
+    <nd ref="2395928769" />
+    <nd ref="2395928736" />
+    <nd ref="2395928723" />
+    <nd ref="2395928648" />
+    <nd ref="2395928625" />
+    <nd ref="2395928888" />
+    <nd ref="2395928910" />
+    <nd ref="2395928953" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183463" timestamp="2013-07-25T07:43:38Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395928949" />
+    <nd ref="2395929038" />
+    <nd ref="2395929034" />
+    <nd ref="2395929060" />
+    <nd ref="2395929057" />
+    <nd ref="2395929066" />
+    <nd ref="2395929059" />
+    <nd ref="2395929160" />
+    <nd ref="2395929159" />
+    <nd ref="2395929213" />
+    <nd ref="2395929208" />
+    <nd ref="2395929113" />
+    <nd ref="2395929115" />
+    <nd ref="2395929074" />
+    <nd ref="2395929075" />
+    <nd ref="2395929064" />
+    <nd ref="2395929069" />
+    <nd ref="2395929048" />
+    <nd ref="2395929044" />
+    <nd ref="2395928929" />
+    <nd ref="2395928931" />
+    <nd ref="2395928907" />
+    <nd ref="2395928911" />
+    <nd ref="2395928942" />
+    <nd ref="2395928949" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way action="modify" changeset="17084757" id="231183475" timestamp="2013-07-25T07:43:39Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395928869" />
+    <nd ref="-10" />
+    <nd ref="2395928977" />
+    <nd ref="2395928861" />
+    <nd ref="2395928695" />
+    <nd ref="2395928869" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183495" timestamp="2013-07-25T07:43:42Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395928844" />
+    <nd ref="2395928837" />
+    <nd ref="2395928658" />
+    <nd ref="2395928674" />
+    <nd ref="2395928844" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183565" timestamp="2013-07-25T07:43:47Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395928669" />
+    <nd ref="2395928858" />
+    <nd ref="2395928882" />
+    <nd ref="2395928704" />
+    <nd ref="2395928669" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183634" timestamp="2013-07-25T07:43:54Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929238" />
+    <nd ref="2395929438" />
+    <nd ref="2395929357" />
+    <nd ref="2395929134" />
+    <nd ref="2395929238" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183664" timestamp="2013-07-25T07:43:57Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929530" />
+    <nd ref="2395929519" />
+    <nd ref="2395929753" />
+    <nd ref="2395929772" />
+    <nd ref="2395929530" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183742" timestamp="2013-07-25T07:44:04Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929092" />
+    <nd ref="2395928954" />
+    <nd ref="2395928927" />
+    <nd ref="2395929056" />
+    <nd ref="2395929092" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183839" timestamp="2013-07-25T07:44:14Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929011" />
+    <nd ref="2395928857" />
+    <nd ref="2395928839" />
+    <nd ref="2395928996" />
+    <nd ref="2395929011" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183886" timestamp="2013-07-25T07:44:18Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929037" />
+    <nd ref="2395929070" />
+    <nd ref="2395928976" />
+    <nd ref="2395928947" />
+    <nd ref="2395929037" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231183925" timestamp="2013-07-25T07:44:22Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929142" />
+    <nd ref="2395929031" />
+    <nd ref="2395929001" />
+    <nd ref="2395929108" />
+    <nd ref="2395929142" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231184141" timestamp="2013-07-25T07:44:41Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929454" />
+    <nd ref="2395929457" />
+    <nd ref="2395929356" />
+    <nd ref="2395929352" />
+    <nd ref="2395929454" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231184150" timestamp="2013-07-25T07:44:42Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929214" />
+    <nd ref="2395929236" />
+    <nd ref="2395929205" />
+    <nd ref="2395929190" />
+    <nd ref="2395929214" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231184309" timestamp="2013-07-25T07:44:55Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395928904" />
+    <nd ref="2395928932" />
+    <nd ref="2395928823" />
+    <nd ref="2395928748" />
+    <nd ref="2395928741" />
+    <nd ref="2395928890" />
+    <nd ref="2395928904" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231184415" timestamp="2013-07-25T07:45:03Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929336" />
+    <nd ref="2395929276" />
+    <nd ref="2395929280" />
+    <nd ref="2395929323" />
+    <nd ref="2395929322" />
+    <nd ref="2395929348" />
+    <nd ref="2395929336" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231184509" timestamp="2013-07-25T07:45:11Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395928898" />
+    <nd ref="2395929102" />
+    <nd ref="2395929118" />
+    <nd ref="2395929061" />
+    <nd ref="2395929077" />
+    <nd ref="2395928919" />
+    <nd ref="2395928898" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231184600" timestamp="2013-07-25T07:45:21Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395928854" />
+    <nd ref="2395928864" />
+    <nd ref="2395928675" />
+    <nd ref="2395928664" />
+    <nd ref="2395928633" />
+    <nd ref="2395928629" />
+    <nd ref="2395928854" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231184626" timestamp="2013-07-25T07:45:23Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929496" />
+    <nd ref="2395929512" />
+    <nd ref="2395929447" />
+    <nd ref="2395929435" />
+    <nd ref="2395929462" />
+    <nd ref="2395929453" />
+    <nd ref="2395929496" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231184628" timestamp="2013-07-25T07:45:23Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929068" />
+    <nd ref="2395929209" />
+    <nd ref="2395929247" />
+    <nd ref="2395929096" />
+    <nd ref="2395929072" />
+    <nd ref="2395929098" />
+    <nd ref="2395929068" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231184758" timestamp="2013-07-25T07:45:36Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929691" />
+    <nd ref="2395929636" />
+    <nd ref="2395929631" />
+    <nd ref="2395929620" />
+    <nd ref="2395929600" />
+    <nd ref="2395929670" />
+    <nd ref="2395929675" />
+    <nd ref="2395929681" />
+    <nd ref="2395929691" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="17084757" id="231184759" timestamp="2013-07-25T07:45:37Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2395929429" />
+    <nd ref="2395929426" />
+    <nd ref="2395929389" />
+    <nd ref="2395929390" />
+    <nd ref="2395929365" />
+    <nd ref="2395929367" />
+    <nd ref="2395929403" />
+    <nd ref="2395929401" />
+    <nd ref="2395929429" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="GSI/KIBAN 2500" />
+    <tag k="source_ref" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+  </way>
+  <way changeset="22083038" id="278828711" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2831293097" />
+    <nd ref="2831293098" />
+    <nd ref="2831293096" />
+    <nd ref="2831293095" />
+    <nd ref="2831293097" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="22083038" id="278828713" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2831293404" />
+    <nd ref="2831293405" />
+    <nd ref="2831293100" />
+    <nd ref="2831293099" />
+    <nd ref="2831293404" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="22083038" id="278828715" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2831293403" />
+    <nd ref="2831293406" />
+    <nd ref="2831293402" />
+    <nd ref="2831293401" />
+    <nd ref="2831293403" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="22083038" id="278828717" timestamp="2014-05-02T11:59:41Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="2831293093" />
+    <nd ref="2831293094" />
+    <nd ref="2831293092" />
+    <nd ref="2831293091" />
+    <nd ref="2831293093" />
+    <tag k="building" v="yes" />
+    <tag k="source" v="bing" />
+  </way>
+  <way changeset="24880116" id="299003735" timestamp="2014-08-20T09:58:17Z" uid="146930" user="Tom_G3X" version="1" visible="true">
+    <nd ref="664543406" />
+    <nd ref="3029359828" />
+    <nd ref="664543419" />
+    <nd ref="664543415" />
+    <tag k="highway" v="residential" />
+    <tag k="source" v="NRPB of MLIT Japan" />
+    <tag k="source:ja" v="国土画像情報（オルソ化空中写真）国土計画局" />
+    <tag k="surface" v="paved" />
+  </way>
+  <way changeset="24993021" id="299943224" timestamp="2014-08-25T01:23:09Z" uid="2273792" user="ikoroahyhtmdmymymn" version="1" visible="true">
+    <nd ref="3040246671" />
+    <nd ref="2395928976" />
+    <nd ref="3040246672" />
+    <nd ref="3040246673" />
+    <nd ref="3040246674" />
+    <nd ref="3040246675" />
+    <nd ref="3040246671" />
+    <tag k="amenity" v="parking" />
+    <tag k="parking" v="surface" />
+    <tag k="source" v="Bing" />
+  </way>
+  <way changeset="24994563" id="299952488" timestamp="2014-08-25T04:37:40Z" uid="2273792" user="ikoroahyhtmdmymymn" version="1" visible="true">
+    <nd ref="3040329982" />
+    <nd ref="3040329983" />
+    <nd ref="3040329984" />
+    <nd ref="3040329985" />
+    <nd ref="3040329982" />
+    <tag k="amenity" v="bicycle_parking" />
+    <tag k="source" v="Bing" />
+  </way>
+  <relation action="modify" id="-466" visible="true">
+    <member ref="51560710" role="street" type="way" />
+    <member ref="2061997625" role="node" type="node" />
+    <member ref="664543468" role="node" type="node" />
+    <member ref="-8" role="parking" type="node" />
+  </relation>
+  <relation action="modify" id="-446" visible="true">
+    <member ref="299943224" role="parking" type="way" />
+    <member ref="51560710" role="street" type="way" />
+    <member ref="664543395" role="node" type="node" />
+    <member ref="659371307" role="node" type="node" />
+  </relation>
+  <relation action="modify" id="-444" visible="true">
+    <member ref="150166195" role="parking" type="way" />
+    <member ref="51560710" role="street" type="way" />
+    <member ref="664543395" role="node" type="node" />
+    <member ref="664543415" role="node" type="node" />
+  </relation>
+  <relation action="modify" id="-442" visible="true">
+    <member ref="150159949" role="parking" type="way" />
+    <member ref="51560710" role="street" type="way" />
+    <member ref="664543415" role="node" type="node" />
+    <member ref="659371309" role="node" type="node" />
+  </relation>
+</osm>

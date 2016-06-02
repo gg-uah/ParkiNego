@@ -1,0 +1,1242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-100' action='modify' visible='true' lat='0.003718134862928244' lon='-0.035364784300979175'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-98' action='modify' visible='true' lat='0.0037154499209387263' lon='-0.030856241364383797'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-96' action='modify' visible='true' lat='0.0037168846378047666' lon='-0.033102079216334616'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-94' action='modify' visible='true' lat='0.003714009393611983' lon='-0.028601308092361655'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-92' action='modify' visible='true' lat='0.003722650207313254' lon='-0.042127228740098145'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-90' action='modify' visible='true' lat='0.003721215490447224' lon='-0.03988139088814733'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-88' action='modify' visible='true' lat='0.00371977496312049' lon='-0.0376264576161252'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-86' action='modify' visible='true' lat='-0.0030434900718576416' lon='-0.03529084427151257'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-84' action='modify' visible='true' lat='-7.886911510558979E-4' lon='-0.035315501051540694'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-82' action='modify' visible='true' lat='0.010481624636293829' lon='-0.03543874472348029'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-80' action='modify' visible='true' lat='0.005981121717629706' lon='-0.03538953061815046'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-78' action='modify' visible='true' lat='0.0014570128928082663' lon='-0.03534005837684227'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-76' action='modify' visible='true' lat='0.008235920622350672' lon='-0.03541418739817871'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-74' action='modify' visible='true' lat='0.005979871492506229' lon='-0.0331268255335059'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-72' action='modify' visible='true' lat='0.0059784367756401885' lon='-0.03088098768155508'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-70' action='modify' visible='true' lat='0.005976996248313445' lon='-0.028626054409532937'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-68' action='modify' visible='true' lat='0.008234670397227195' lon='-0.03315148231353415'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-66' action='modify' visible='true' lat='0.008233235680361155' lon='-0.030905644461583334'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-64' action='modify' visible='true' lat='0.008231795153034412' lon='-0.028650711189561192'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-62' action='modify' visible='true' lat='0.010480374411170352' lon='-0.03317603963883573'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-60' action='modify' visible='true' lat='0.010478939694304312' lon='-0.030930201786884912'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-58' action='modify' visible='true' lat='0.010477499166977568' lon='-0.02867526851486277'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-56' action='modify' visible='true' lat='0.0014557626676847887' lon='-0.033077353292197714'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-54' action='modify' visible='true' lat='-7.899413761793756E-4' lon='-0.033052795966896135'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-52' action='modify' visible='true' lat='-0.003044740296981119' lon='-0.03302813918686801'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-50' action='modify' visible='true' lat='0.0014543279508187484' lon='-0.030831515440246895'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-48' action='modify' visible='true' lat='0.0014528874234920053' lon='-0.028576582168224753'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-46' action='modify' visible='true' lat='-7.913760930454159E-4' lon='-0.030806958114945316'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-44' action='modify' visible='true' lat='-7.92816620372159E-4' lon='-0.028552024842923174'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-42' action='modify' visible='true' lat='-0.0030461750138471595' lon='-0.030782301334917193'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-40' action='modify' visible='true' lat='-0.0030476155411739026' lon='-0.02852736806289505'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-38' action='modify' visible='true' lat='0.005982761817821952' lon='-0.03765120393329648'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-36' action='modify' visible='true' lat='0.008237560722542918' lon='-0.03767586071332474'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-34' action='modify' visible='true' lat='0.010483264736486074' lon='-0.03770041803862632'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-32' action='modify' visible='true' lat='0.005984202345148687' lon='-0.03990613720531861'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-30' action='modify' visible='true' lat='0.008239001249869652' lon='-0.039930793985346866'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-28' action='modify' visible='true' lat='0.010484705263812809' lon='-0.039955351310648445'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-26' action='modify' visible='true' lat='0.0059856370620147165' lon='-0.04215197505726943'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-24' action='modify' visible='true' lat='0.008240435966735682' lon='-0.04217663183729768'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-22' action='modify' visible='true' lat='0.010486139980678839' lon='-0.04220118916259926'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-20' action='modify' visible='true' lat='0.001458652993000512' lon='-0.0376017316919883'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-18' action='modify' visible='true' lat='-7.870510508636521E-4' lon='-0.03757717436668672'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-16' action='modify' visible='true' lat='-0.003041849971665396' lon='-0.0375525175866586'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-14' action='modify' visible='true' lat='0.0014600935203272461' lon='-0.03985666496401043'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='-7.856105235369181E-4' lon='-0.03983210763870885'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='-0.0030404094443386618' lon='-0.039807450858680725'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-8' action='modify' visible='true' lat='0.001461528237193276' lon='-0.04210250281596124'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-6' action='modify' visible='true' lat='-7.841758066708882E-4' lon='-0.042077945490659664'>
+    <tag k='length' v='200' />
+  </node>
+  <node id='-4' action='modify' visible='true' lat='-0.003038974727472632' lon='-0.04205328871063154'>
+    <tag k='length' v='200' />
+  </node>
+  <way id='-268' action='modify' visible='true'>
+    <nd ref='-100' />
+    <nd ref='-96' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-266' action='modify' visible='true'>
+    <nd ref='-96' />
+    <nd ref='-98' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-264' action='modify' visible='true'>
+    <nd ref='-98' />
+    <nd ref='-94' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-262' action='modify' visible='true'>
+    <nd ref='-90' />
+    <nd ref='-88' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-260' action='modify' visible='true'>
+    <nd ref='-88' />
+    <nd ref='-100' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-258' action='modify' visible='true'>
+    <nd ref='-92' />
+    <nd ref='-90' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-256' action='modify' visible='true'>
+    <nd ref='-80' />
+    <nd ref='-100' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-254' action='modify' visible='true'>
+    <nd ref='-100' />
+    <nd ref='-78' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-252' action='modify' visible='true'>
+    <nd ref='-76' />
+    <nd ref='-80' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-250' action='modify' visible='true'>
+    <nd ref='-84' />
+    <nd ref='-86' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-248' action='modify' visible='true'>
+    <nd ref='-82' />
+    <nd ref='-76' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-246' action='modify' visible='true'>
+    <nd ref='-78' />
+    <nd ref='-84' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-244' action='modify' visible='true'>
+    <nd ref='-74' />
+    <nd ref='-96' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-242' action='modify' visible='true'>
+    <nd ref='-80' />
+    <nd ref='-74' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-240' action='modify' visible='true'>
+    <nd ref='-72' />
+    <nd ref='-98' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-238' action='modify' visible='true'>
+    <nd ref='-74' />
+    <nd ref='-72' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-236' action='modify' visible='true'>
+    <nd ref='-70' />
+    <nd ref='-94' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='20' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-234' action='modify' visible='true'>
+    <nd ref='-72' />
+    <nd ref='-70' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-232' action='modify' visible='true'>
+    <nd ref='-68' />
+    <nd ref='-74' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-230' action='modify' visible='true'>
+    <nd ref='-76' />
+    <nd ref='-68' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-228' action='modify' visible='true'>
+    <nd ref='-66' />
+    <nd ref='-72' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-226' action='modify' visible='true'>
+    <nd ref='-68' />
+    <nd ref='-66' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-224' action='modify' visible='true'>
+    <nd ref='-64' />
+    <nd ref='-70' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='20' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-222' action='modify' visible='true'>
+    <nd ref='-66' />
+    <nd ref='-64' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-220' action='modify' visible='true'>
+    <nd ref='-62' />
+    <nd ref='-68' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-218' action='modify' visible='true'>
+    <nd ref='-82' />
+    <nd ref='-62' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-216' action='modify' visible='true'>
+    <nd ref='-60' />
+    <nd ref='-66' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-214' action='modify' visible='true'>
+    <nd ref='-62' />
+    <nd ref='-60' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-212' action='modify' visible='true'>
+    <nd ref='-58' />
+    <nd ref='-64' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-210' action='modify' visible='true'>
+    <nd ref='-60' />
+    <nd ref='-58' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-208' action='modify' visible='true'>
+    <nd ref='-96' />
+    <nd ref='-56' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-206' action='modify' visible='true'>
+    <nd ref='-78' />
+    <nd ref='-56' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-204' action='modify' visible='true'>
+    <nd ref='-56' />
+    <nd ref='-54' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-202' action='modify' visible='true'>
+    <nd ref='-84' />
+    <nd ref='-54' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-200' action='modify' visible='true'>
+    <nd ref='-54' />
+    <nd ref='-52' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-198' action='modify' visible='true'>
+    <nd ref='-86' />
+    <nd ref='-52' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-196' action='modify' visible='true'>
+    <nd ref='-56' />
+    <nd ref='-50' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-194' action='modify' visible='true'>
+    <nd ref='-98' />
+    <nd ref='-50' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-192' action='modify' visible='true'>
+    <nd ref='-50' />
+    <nd ref='-48' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-190' action='modify' visible='true'>
+    <nd ref='-94' />
+    <nd ref='-48' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='20' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-188' action='modify' visible='true'>
+    <nd ref='-50' />
+    <nd ref='-46' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-186' action='modify' visible='true'>
+    <nd ref='-54' />
+    <nd ref='-46' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-184' action='modify' visible='true'>
+    <nd ref='-48' />
+    <nd ref='-44' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='20' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-182' action='modify' visible='true'>
+    <nd ref='-46' />
+    <nd ref='-44' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-180' action='modify' visible='true'>
+    <nd ref='-46' />
+    <nd ref='-42' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-178' action='modify' visible='true'>
+    <nd ref='-52' />
+    <nd ref='-42' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-176' action='modify' visible='true'>
+    <nd ref='-42' />
+    <nd ref='-40' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-174' action='modify' visible='true'>
+    <nd ref='-44' />
+    <nd ref='-40' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-172' action='modify' visible='true'>
+    <nd ref='-38' />
+    <nd ref='-80' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-170' action='modify' visible='true'>
+    <nd ref='-38' />
+    <nd ref='-88' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-168' action='modify' visible='true'>
+    <nd ref='-36' />
+    <nd ref='-76' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-166' action='modify' visible='true'>
+    <nd ref='-36' />
+    <nd ref='-38' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-164' action='modify' visible='true'>
+    <nd ref='-34' />
+    <nd ref='-82' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-162' action='modify' visible='true'>
+    <nd ref='-34' />
+    <nd ref='-36' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-160' action='modify' visible='true'>
+    <nd ref='-32' />
+    <nd ref='-38' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-158' action='modify' visible='true'>
+    <nd ref='-32' />
+    <nd ref='-90' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-156' action='modify' visible='true'>
+    <nd ref='-30' />
+    <nd ref='-36' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-154' action='modify' visible='true'>
+    <nd ref='-30' />
+    <nd ref='-32' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-152' action='modify' visible='true'>
+    <nd ref='-28' />
+    <nd ref='-34' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-150' action='modify' visible='true'>
+    <nd ref='-28' />
+    <nd ref='-30' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-148' action='modify' visible='true'>
+    <nd ref='-26' />
+    <nd ref='-32' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-146' action='modify' visible='true'>
+    <nd ref='-26' />
+    <nd ref='-92' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='20' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-144' action='modify' visible='true'>
+    <nd ref='-24' />
+    <nd ref='-30' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-142' action='modify' visible='true'>
+    <nd ref='-24' />
+    <nd ref='-26' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='20' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-140' action='modify' visible='true'>
+    <nd ref='-22' />
+    <nd ref='-28' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-138' action='modify' visible='true'>
+    <nd ref='-22' />
+    <nd ref='-24' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-136' action='modify' visible='true'>
+    <nd ref='-20' />
+    <nd ref='-78' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-134' action='modify' visible='true'>
+    <nd ref='-88' />
+    <nd ref='-20' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-132' action='modify' visible='true'>
+    <nd ref='-18' />
+    <nd ref='-84' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-130' action='modify' visible='true'>
+    <nd ref='-20' />
+    <nd ref='-18' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-128' action='modify' visible='true'>
+    <nd ref='-16' />
+    <nd ref='-86' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-126' action='modify' visible='true'>
+    <nd ref='-18' />
+    <nd ref='-16' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-124' action='modify' visible='true'>
+    <nd ref='-14' />
+    <nd ref='-20' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-122' action='modify' visible='true'>
+    <nd ref='-90' />
+    <nd ref='-14' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-120' action='modify' visible='true'>
+    <nd ref='-12' />
+    <nd ref='-18' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-118' action='modify' visible='true'>
+    <nd ref='-14' />
+    <nd ref='-12' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-116' action='modify' visible='true'>
+    <nd ref='-10' />
+    <nd ref='-16' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-114' action='modify' visible='true'>
+    <nd ref='-12' />
+    <nd ref='-10' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-112' action='modify' visible='true'>
+    <nd ref='-8' />
+    <nd ref='-14' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-110' action='modify' visible='true'>
+    <nd ref='-92' />
+    <nd ref='-8' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='20' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-108' action='modify' visible='true'>
+    <nd ref='-6' />
+    <nd ref='-12' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-106' action='modify' visible='true'>
+    <nd ref='-8' />
+    <nd ref='-6' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='20' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-104' action='modify' visible='true'>
+    <nd ref='-4' />
+    <nd ref='-10' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='-102' action='modify' visible='true'>
+    <nd ref='-6' />
+    <nd ref='-4' />
+    <tag k='capacity' v='150' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='length' v='200' />
+    <tag k='maxspeed' v='25' />
+    <tag k='name' v='grid_road' />
+    <tag k='ref' v='arterial_raod' />
+    <tag k='surface' v='paved' />
+  </way>
+</osm>
